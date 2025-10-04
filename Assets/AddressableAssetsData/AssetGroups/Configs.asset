@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Configs
+  m_EditorClassIdentifier: 
+  m_GroupName: Configs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 07b1d6ce845bc344ea986fd23613a0be
+  m_SerializeEntries:
+  - m_GUID: 11a785ea84b7ae745a07a7afddd7fa41
+    m_Address: Assets/Scrptable Objects/Audio Configs/Main Menu Audio Config.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1be075751bbdaa44282eac1a28f61dc6
+    m_Address: Assets/Showcase/Configs/SceneConfigs/MainMenuConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f4b9a656e9f97c479ee80c8c46bd05b
+    m_Address: Assets/Scrptable Objects/Color Palette Configs/Scene Transition Background
+      Palette Config.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Color Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9463245955f87964c983e7284b9c8a9a
+    m_Address: Assets/Scrptable Objects/Pool Configs/Background Sphere Pool Config.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pool Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbe6c1834ae650b499c6a6d2855ea58e
+    m_Address: Assets/Scrptable Objects/Pool Configs/Demo 1 Sphere.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pool Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bebe19a3d70eb124a8b74dc52ed1b2f1
+    m_Address: Assets/Scrptable Objects/Color Palette Configs/Demo1 Object Palette
+      Config.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Color Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d36f4b63ccb7a314f90c84dff5307389
+    m_Address: Assets/Showcase/Configs/SceneConfigs/BootstrapConfig.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d427317b4e2ac5b46b589cf22c7592a4
+    m_Address: Assets/Showcase/Configs/SceneConfigs/Demo1Config.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Scene Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2ea9d492590ef9468b440120f2fea2d
+    m_Address: Assets/Scrptable Objects/Audio Configs/Music Audio Config.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3f32d1b81f96f64e80970b7ce7310f5
+    m_Address: Assets/Scrptable Objects/Color Palette Configs/Main Menu Background
+      Object Palette Config.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Color Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f308304501d9d4941a4bd1ab01598077
+    m_Address: Assets/Scrptable Objects/Audio Configs/UI Audio Config.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feaff51cd62caa745b37ea8da55fcaa8
+    m_Address: Assets/Scrptable Objects/Pool Configs/Background Cube Pool Config.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Pool Configs
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 76374eb841236c7478feb5a6100e1383, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dbab2ac3face1ad4dbb4534cee16f7c6, type: 2}
+    - {fileID: 11400000, guid: d08bdbbff321ba34285c1d64d16a4515, type: 2}

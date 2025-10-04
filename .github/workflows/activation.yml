@@ -1,0 +1,25 @@
+name: Test Unity Setup
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  test-unity:
+    name: Test Unity License Setup
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Test Unity Builder
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_SERIAL: ${{ secrets.UNITY_SERIAL }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+        with:
+          targetPlatform: StandaloneWindows64
+          unityVersion: 2022.3.0f1
+          buildMethod: ''
+          allowDirtyBuild: true

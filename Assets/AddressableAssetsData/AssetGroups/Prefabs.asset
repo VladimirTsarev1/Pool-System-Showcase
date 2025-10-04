@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a4aee9093fd31464a9ab025e04b34956
+  m_SerializeEntries:
+  - m_GUID: 062691494b2fa7d4b9d44e2a647cf818
+    m_Address: Assets/Prefabs/Pool Objects/Main Menu/Background Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f337f9abc85cb449886666d22eb061d
+    m_Address: Assets/Prefabs/Pool Objects/Demo 1/Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cee2d208ffc3ee64596942e129309bb0
+    m_Address: Assets/Prefabs/Pool Objects/Main Menu/Background Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 76374eb841236c7478feb5a6100e1383, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4902aa974060bd742953892388e14fd5, type: 2}
+    - {fileID: 11400000, guid: 38675f15b8ae3174bb585533daa0ae90, type: 2}
